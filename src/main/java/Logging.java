@@ -1,5 +1,12 @@
-
+/**
+ * Contains the method display.
+ *
+ * @author Mass'
+ *
+ * @version 1.1
+ *
+ */
 public interface Logging {
 
-  public String display(String message);
+  public void display(String message);
 }
