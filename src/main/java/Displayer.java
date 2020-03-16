@@ -10,15 +10,17 @@
  */
 public class Displayer implements Logging {
 
-  public Displayer() {};
+  public Displayer() {
+
+  };
 
   /**
    * Prints the message.
-   * 
+   *
    * @param message a string to be printed
-   * 
+   *
    * @see Logging#display(String)
-   * 
+   *
    */
   @Override
   public void display(String message) {

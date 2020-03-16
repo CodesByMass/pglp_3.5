@@ -10,7 +10,9 @@ import java.time.LocalDateTime;
  */
 public class UneClasseMetier {
 
-  public UneClasseMetier() {};
+  public UneClasseMetier() {
+
+  };
 
   /**
    * A method that respects the DIP principle.
